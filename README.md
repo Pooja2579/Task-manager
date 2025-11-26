@@ -7,6 +7,12 @@ A RESTful API for managing tasks with user authentication built with Flask.
 </p>
 
 
+<p align="center">
+  <img src="./docs/images/image.png" alt="Dashboard Preview" width="800">
+</p>
+
+
+
 - User registration and authentication (JWT)
 - CRUD operations for tasks
 - Pagination and filtering
